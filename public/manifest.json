@@ -1,0 +1,23 @@
+{
+    "name": "職涯決策助手",
+    "short_name": "職涯助手",
+    "description": "幫助您評估職業狀況並做出更好的離職決策",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#3A7BEB",
+    "icons": [
+      {
+        "src": "/icons/icon-192x192.png",
+        "sizes": "192x192",
+        "type": "image/png",
+        "purpose": "any maskable"
+      },
+      {
+        "src": "/icons/icon-512x512.png",
+        "sizes": "512x512",
+        "type": "image/png",
+        "purpose": "any maskable"
+      }
+    ]
+  }
