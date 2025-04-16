@@ -19,12 +19,12 @@ export default function LoginPage() {
   };
 
   return (
-    <div className="flex items-center justify-center min-h-screen bg-[#f5f7fa]">
-      <div className="w-full max-w-md p-8 mx-4 bg-white rounded-3xl shadow-sm border border-[#e1e5eb]">
+    <div className="flex items-center justify-center min-h-screen">
+      <div className="w-full max-w-md p-8 mx-4 bg-white">
         {/* 頂部圖標區域 */}
         <div className="flex justify-center mb-6">
           <div className="w-20 h-20 bg-[#588be8] rounded-full flex items-center justify-center">
-            <span className="text-white text-3xl font-bold">職</span>
+            <span className="text-white text-3xl font-bold">Bye</span>
           </div>
         </div>
 

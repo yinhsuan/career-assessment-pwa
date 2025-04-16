@@ -5,7 +5,7 @@ export const metadata: Metadata = {
   title: '職涯決策助手',
   description: '幫助您評估職業狀況並做出更好的離職決策',
   manifest: '/manifest.json',
-  themeColor: '#3A7BEB',
+  //themeColor: '#3A7BEB',
   appleWebApp: {
     capable: true,
     statusBarStyle: 'default',
